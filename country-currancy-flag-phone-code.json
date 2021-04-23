@@ -290,7 +290,7 @@
     {
         "name": "Bouvet Island",
         "isoCode": "BV",
-        "phoneCode": "",
+        "phoneCode": "0055",
         "flag": {
             "emoji": "🇧🇻",
             "unicode": "U+1F1E7 U+1F1FB"
@@ -668,7 +668,7 @@
     {
         "name": "South Georgia and the South Sandwich Islands",
         "isoCode": "GS",
-        "phoneCode": "",
+        "phoneCode": "500",
         "flag": {
             "emoji": "🇬🇸",
             "unicode": "U+1F1EC U+1F1F8"
@@ -2612,7 +2612,7 @@
     {
         "name": "Kosovo",
         "isoCode": "XK",
-        "phoneCode": "",
+        "phoneCode": "383",
         "flag": {
             "emoji": "🇽🇰",
             "unicode": "U+1F1FD U+1F1F0"
@@ -3926,7 +3926,7 @@
     {
         "name": "French Southern Territories",
         "isoCode": "TF",
-        "phoneCode": "",
+        "phoneCode": "262",
         "flag": {
             "emoji": "🇹🇫",
             "unicode": "U+1F1F9 U+1F1EB"
@@ -4250,7 +4250,7 @@
     {
         "name": "Antarctica",
         "isoCode": "AQ",
-        "phoneCode": "",
+        "phoneCode": "00",
         "flag": {
             "emoji": "🇦🇶",
             "unicode": "U+1F1E6 U+1F1F6"
