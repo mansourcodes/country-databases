@@ -1188,7 +1188,7 @@
         }
     },
     {
-        "name": "Palestinian Territory",
+        "name": "Palestinian",
         "isoCode": "PS",
         "phoneCode": "970",
         "flag": {
@@ -1196,13 +1196,13 @@
             "unicode": "U+1F1F5 U+1F1F8"
         },
         "currency": {
-            "symbol": "₪",
-            "name": "Israeli New Sheqel",
-            "symbol_native": "₪",
+            "symbol": "PP",
+            "name": "Palestine pound",
+            "symbol_native": "جنيه",
             "decimal_digits": 2,
             "rounding": 0,
-            "code": "ILS",
-            "name_plural": "Israeli new sheqels"
+            "code": "PPP",
+            "name_plural": "Palestine pound"
         }
     },
     {
@@ -2193,24 +2193,6 @@
             "rounding": 0,
             "code": "MXN",
             "name_plural": "Mexican pesos"
-        }
-    },
-    {
-        "name": "Israel",
-        "isoCode": "IL",
-        "phoneCode": "972",
-        "flag": {
-            "emoji": "🇮🇱",
-            "unicode": "U+1F1EE U+1F1F1"
-        },
-        "currency": {
-            "symbol": "₪",
-            "name": "Israeli New Sheqel",
-            "symbol_native": "₪",
-            "decimal_digits": 2,
-            "rounding": 0,
-            "code": "ILS",
-            "name_plural": "Israeli new sheqels"
         }
     },
     {
